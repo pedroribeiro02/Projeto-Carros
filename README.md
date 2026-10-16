@@ -1,2 +1,2 @@
 # Projeto-Carros
-Design em HTML, CSS e Javascript para exposição de carros.
+Meu primeiro projeto no desenvolvimento web! Landing page automotiva interativa que criei para colocar em prática meus aprendizados em HTML, CSS e JavaScript.
